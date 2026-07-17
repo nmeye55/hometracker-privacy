@@ -36,3 +36,18 @@ and does not knowingly collect data from children.
 CHANGES
 We may update this policy from time to time. 
 Any changes will be posted at this URL.
+
+
+SUPPORT
+
+For help with HomeTracker, please visit this page 
+for information about how the app works and how 
+your data is handled. 
+
+HomeTracker stores all data locally on your device. 
+If you are experiencing issues, try the following:
+
+- Restart the app
+- Ensure your iOS is up to date
+- Delete and reinstall the app (note: this will 
+  clear your local data)
